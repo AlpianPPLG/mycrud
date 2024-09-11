@@ -1,13 +1,4 @@
 <?php
-    // echo $_POST['nama'];
-    // echo $_POST['alamat'];
-
-    // include "database.php";
-
-    // $query = "INSERT INTO person VALUES('',`$_POST[nama]`,`$_POST[alamat]`) ";
-
-    // $data = $db->prepare($query);
-    // $data->execute();
 
     include "database.php";
 
